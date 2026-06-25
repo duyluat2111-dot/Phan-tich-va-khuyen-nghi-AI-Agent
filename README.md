@@ -1,5 +1,5 @@
-BÁO CÁO CẤU TRÚC VÀ PHÂN CẤP THÔNG TIN HỆ THỐNG PHÂN TÍCH AI AGENT
-
+**BÁO CÁO CẤU TRÚC VÀ PHÂN CẤP THÔNG TIN HỆ THỐNG PHÂN TÍCH AI AGENT
+**
 I. Tổng quan về triết lý thiết kế
 Hệ thống được thiết kế dựa trên nguyên tắc "Information-First", ưu tiên tính rõ ràng của dữ liệu và trải nghiệm người dùng chuyên sâu (UX). Bố cục được phân tách mạch lạc giữa các khu vực điều khiển và khu vực hiển thị, sử dụng ngôn ngữ thiết kế hiện đại với tông màu trắng - xanh chủ đạo (Brand Identity của HUB), tạo cảm giác tin cậy và chuyên nghiệp của một hệ thống phân tích dữ liệu kinh doanh.
 
